@@ -1,5 +1,5 @@
-#ifndef SIMPLE_SHELL_H
-#define SIMPLE_SHELL_H
+#ifndef _SHELL_H_
+#define _SHELL_H_
 
 /* included standard library headers */
 
