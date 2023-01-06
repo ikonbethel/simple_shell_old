@@ -1,4 +1,5 @@
 #ifndef SIMPLE_SHELL
+
 #define SIMPLE_SHELL
 
 /* included standard library headers */
